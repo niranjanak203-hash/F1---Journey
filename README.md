@@ -11,5 +11,5 @@ To become a Performance Engineer in Formula 1 - working directly with drivers on
 - Year 2, B.Tech CSE
 - Learning: Python, Vehicle Dynamicds, F1 Telemetry Analysis
 
-  ## Projects
-  - Coming soon...
+## Projects
+- Coming soon...
