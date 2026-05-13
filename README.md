@@ -1,4 +1,4 @@
-# F1---Journey
+# F1 - Journey
 
 # My F1 Engineering Journey
 
